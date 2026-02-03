@@ -1,0 +1,32 @@
+subtle_methods = [
+    {
+        "method": "Synonym Substitution (Subtle)",
+        "pidgin_input": "E don spoil",
+        "bit_0_options": ["it’s bad", "it’s awful", "it’s poor"],
+        "bit_1_options": ["it’s terrible", "it’s dreadful", "it’s lousy"]
+    },
+    {
+        "method": "Article Insertion (Subtle)",
+        "pidgin_input": "He get car",
+        "bit_0_options": ["he has a car", "he’s got a car"],
+        "bit_1_options": ["he owns a car", "he’s the owner of a car"]
+    },
+    {
+        "method": "Sentence Structure (Subtle)",
+        "pidgin_input": "Dem see me",
+        "bit_0_options": ["they saw me", "they happened to see me", "they did see me"],
+        "bit_1_options": ["i was seen by them", "i happened to be seen by them", "i ended up being seen by them"]
+    },
+    {
+        "method": "Modifier Inclusion (Subtle)",
+        "pidgin_input": "Na small pikin",
+        "bit_0_options": ["a small child", "a tiny child"],
+        "bit_1_options": ["a rather small child", "a slightly small child"]
+    },
+    {
+        "method": "Negation Framing (Subtle)",
+        "pidgin_input": "I no like am",
+        "bit_0_options": ["i don’t like it", "i’m not fond of it"],
+        "bit_1_options": ["i’m not a fan of it", "it’s not to my taste"]
+    }
+]
